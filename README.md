@@ -49,7 +49,7 @@ To use the application:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## NOTE:For privacy reasons, codes or screenshots are added as private. The project exists as private.
+## NOTE: For privacy reasons, codes or screenshots are added as private. The project exists as private.
 
 
 
